@@ -42,6 +42,6 @@ foodpower = 400
 <code>foods</code> is the number of Foods available in the simulation
 <code>foodpower</code> is the amount of energy provided by each Food
 
-### Building8
+### Building
 Critterevolution consists of a single C++11 file. It depends on the [SFML](http://www.sfml-dev.org/).
 
