@@ -28,12 +28,13 @@ The simulation parameters can be set in a <code>conf</code> file located in the 
 
 Sample conf file:
 
-<code>health    = 300
+```
+health    = 300
 age       = 2000
 critters  = 20
 foods     = 200
 foodpower = 400
-</code>
+``
 
 <code>health</code> is the the mimum energy required by a Critter to be able to mate
 <code>age</code> is the lifespan of the Critters
@@ -43,3 +44,4 @@ foodpower = 400
 
 ### Building8
 Critterevolution consists of a single C++11 file. It depends on the [SFML](http://www.sfml-dev.org/).
+
