@@ -34,7 +34,7 @@ age       = 2000
 critters  = 20
 foods     = 200
 foodpower = 400
-``
+```
 
 <code>health</code> is the the mimum energy required by a Critter to be able to mate
 <code>age</code> is the lifespan of the Critters
